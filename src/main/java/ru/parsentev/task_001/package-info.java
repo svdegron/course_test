@@ -6,5 +6,9 @@
  *
  * @author parsentev
  * @since 18.07.2016
+ * 
+ * I think need write «do not use Math.pow() and add test for negative degree» for example
+ * @author svdegron
+ * @since 28.05.2021
  */
 package ru.parsentev.task_001;

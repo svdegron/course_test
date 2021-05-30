@@ -39,6 +39,14 @@ public class Point {
 
 		return distance;
 	}
+	
+	public int getX() {
+		return x;
+	}
+	
+	public int getY() {
+		return y;
+	}
 
 	// I know it was very simple to be true → google → I knew it was too easy to be
 	// true
